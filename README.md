@@ -57,3 +57,12 @@ Use the following commands in the terminal:
 ```bash
 gcc main.c add.c sub.c mul.c div.c -o apc
 ./apc
+
+## Screenshots
+
+### Operations
+![Operations](images/operation.png)
+
+### Validations
+![Validations](images/validations.png)
+
