@@ -50,6 +50,13 @@ by processing numbers digit-by-digit using **linked lists**.
 - The result is generated as a linked list and printed to the console.
 
 ---
+## Screenshots
+
+### Operations
+![Operations](images/operation.png)
+
+### Validations
+![Validations](images/validations.png)
 
 ## How to Compile and Run
 Use the following commands in the terminal:
@@ -58,11 +65,4 @@ Use the following commands in the terminal:
 gcc main.c add.c sub.c mul.c div.c -o apc
 ./apc
 
-## Screenshots
-
-### Operations
-![Operations](images/operation.png)
-
-### Validations
-![Validations](images/validations.png)
 
